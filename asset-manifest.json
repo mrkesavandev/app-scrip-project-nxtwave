@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mrkesavandev/app-scrip-project-nxtwave.git/static/css/main.2ba678e2.css",
+    "main.js": "/mrkesavandev/app-scrip-project-nxtwave.git/static/js/main.9b4f3c5b.js",
+    "static/js/453.a6a97343.chunk.js": "/mrkesavandev/app-scrip-project-nxtwave.git/static/js/453.a6a97343.chunk.js",
+    "index.html": "/mrkesavandev/app-scrip-project-nxtwave.git/index.html",
+    "main.2ba678e2.css.map": "/mrkesavandev/app-scrip-project-nxtwave.git/static/css/main.2ba678e2.css.map",
+    "main.9b4f3c5b.js.map": "/mrkesavandev/app-scrip-project-nxtwave.git/static/js/main.9b4f3c5b.js.map",
+    "453.a6a97343.chunk.js.map": "/mrkesavandev/app-scrip-project-nxtwave.git/static/js/453.a6a97343.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2ba678e2.css",
+    "static/js/main.9b4f3c5b.js"
+  ]
+}
